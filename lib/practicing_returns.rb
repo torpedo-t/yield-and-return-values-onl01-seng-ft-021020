@@ -1,4 +1,4 @@
-
+#return from yield statements
 
 def hello(array)
   i = 0
